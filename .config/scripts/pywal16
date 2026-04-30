@@ -1,0 +1,1 @@
+ln -sf ~/.cache/wal/pywal16.ron ~/.config/rmpc/config.ron

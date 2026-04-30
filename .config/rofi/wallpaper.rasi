@@ -1,0 +1,21 @@
+* {
+    background-color: #1a1a2e;
+    text-color: #ffffff;
+    border-color: #7aa2f7;
+}
+
+window {
+    width: 800px;
+    height: 600px;
+    border: 2px;
+    border-radius: 12px;
+}
+
+element-icon {
+    size: 8em;
+}
+
+listview {
+    columns: 3;
+    lines: 3;
+}
