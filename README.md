@@ -9,7 +9,7 @@ Done so far
 
 -----------------------------------------------------------------------------------------------------------------
 Working on
-* Lazyvim to NVim (hahahahah see what i did there) (im editing this and its so bad...)
+* Lazyvim to Nvim (kinda not enjoying lazyvim anymore)
 * Rofi
 * Waybar
 
